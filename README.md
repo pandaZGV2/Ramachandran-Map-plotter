@@ -8,6 +8,7 @@ where $\phi$ is the torsion angle and $a, b,c$ are the vectors between four atom
 <p align="center">
   <img src="Images/phivector.png" />
 </p>
+
 ### Requirements
 * Python 3.8 or above
 * numpy
@@ -18,11 +19,14 @@ where $\phi$ is the torsion angle and $a, b,c$ are the vectors between four atom
 ## Example
 ---
 ### Plotting the Ramachandran Map of 1AXC
-**Example from wikipedia -**<br />
+**Example from wikipedia -**
+<br />
 <p align="center">
   <img src="RMAP-Projects/1axc_PCNA_ProCheck_Rama.jpg" />
 </p>
-**Example from Program -** <br/>
+
+**Example from program -**
+<br />
 <p align="center">
   <img src="RMAP-Projects/1AXC.png" />
 </p>
