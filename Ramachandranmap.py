@@ -14,5 +14,5 @@ for i in data.readlines():
     # Generating a dictionary to store the phi and psi angles
     # And returning the ignored aminoacid residues
     phi_psi_dict, ignored_res = phi_psi(fetch(PDB_id), return_ignored=True)
-    print('All Maps have been printed')
+print('All Maps have been printed')
 
