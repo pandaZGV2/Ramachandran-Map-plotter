@@ -1,6 +1,6 @@
-# Ramachadran-Map-plotter
+# Ramachandran-Map-plotter
 -------------
-This is a program to plot the Ramachadran Map of DNA sequences and calculate the Backbone Torsion Angles of the DNA. 
+This is a program to plot the Ramachandran Map of DNA sequences and calculate the Backbone Torsion Angles of the DNA. 
 
 ### Requirements
 * Python 3.8 or above
