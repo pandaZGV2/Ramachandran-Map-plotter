@@ -5,7 +5,9 @@ On running the program, it reads the PDB ids from the question6.txt file and che
 The torsion angle is given by
 $$\phi=\tau(a,b,c)$$
 where $\phi$ is the torsion angle and $a, b,c$ are the vectors between four atoms in the molecule.
-![Figure showing the 4 atoms and the vector between them](Images/phivector.png)
+<p align="center">
+  <img src="Images/phivector.png" />
+</p>
 ### Requirements
 * Python 3.8 or above
 * numpy
@@ -15,8 +17,12 @@ where $\phi$ is the torsion angle and $a, b,c$ are the vectors between four atom
 
 ## Example
 ---
-Plotting the Ramachandran Map of 1AXC
-**Example from wikipedia -**
-![Ramachandran Map of 1AXC from Wikipedia](RMAP-Projects/1axc_PCNA_ProCheck_Rama.jpg)
-**Example from Program -**
-![Ramachandran Map of 1AXC from Wikipedia](./RMAP-Projects/1AXC.png)
+### Plotting the Ramachandran Map of 1AXC
+**Example from wikipedia -**<br />
+<p align="center">
+  <img src="RMAP-Projects/1axc_PCNA_ProCheck_Rama.jpg" />
+</p>
+**Example from Program -** <br/>
+<p align="center">
+  <img src="RMAP-Projects/1AXC.png" />
+</p>
